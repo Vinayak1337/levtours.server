@@ -1,1 +1,1 @@
-https://levtours-server.onrender.com/
+https://levtours-server.onrender.com/docs
