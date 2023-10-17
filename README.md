@@ -3,6 +3,8 @@
 This repository contains the backend code for the Levtours application. It provides a RESTful API that powers the [Levtours Admin Panel](https://levtours-admin-panel.netlify.app).
 The codebase follows a feature-centric pattern, where each feature has its dedicated model, router, and controller.
 
+Written in JavaScript, utilizing technologies such as Express.js for creating RESTful APIs, Mongoose/Mongodb, multer & S3 for storing data & images, bcrypt & jwt for encrypting password & creating session token, among others.
+
 ## Live Documentation
 
 API documentation can be found [here](https://github.com/Vinayak1337/levtours.server/docs).
